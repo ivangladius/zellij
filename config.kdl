@@ -20,9 +20,9 @@ copy_on_select true
 
 scrollback_editor "/usr/bin/nvim"
 
-layout_dir "/home/max/.config/zellij/layout"
+#layout_dir "/home/max/.config/zellij/layout"
 
-theme_dir "/home/max/.config/zellij/theme"
+#theme_dir "/home/max/.config/zellij/theme"
 
 auto_layout true
 
