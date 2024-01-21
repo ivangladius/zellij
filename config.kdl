@@ -2,7 +2,7 @@
 
 simplified_ui true
 
-default_shell "bash"
+default_shell "zsh"
 
 pane_frames false
 
